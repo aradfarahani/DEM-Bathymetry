@@ -1,2 +1,2 @@
-# DEM
-Digital Elevation Model
+# DEM&Bathymetry
+Digital Elevation Model and Bathymetry
